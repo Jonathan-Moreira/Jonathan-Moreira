@@ -17,4 +17,3 @@
 </div><br/>
 
 
-Todo mundo deveria aprender a programar, porque isso ensina a pensar.
