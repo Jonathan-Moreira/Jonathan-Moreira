@@ -1,10 +1,11 @@
-### Olá! Eu sou o Jonathan 😀
+## Olá! Eu sou o Jonathan 😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanmoreiraacount)
 
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Moreira&show_icons=true&theme=transparent)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Moreira)](https://github.com/anuraghazra/github-readme-stats)
+#
 ### Tecnologias usadas:
 <div style="display: inline_block"><br/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
